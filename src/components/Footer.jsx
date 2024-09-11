@@ -26,7 +26,7 @@ const Footer = () => {
                 </div>
                 <div className='block'>
                     <h1 className='text-2xl font-bold font-serif pt-5'>Contact Us</h1>
-                   <span><i class="fa-solid fa-location-dot p-2"></i> Location</span><br />
+                   <span><i class="fa-solid fa-location-dot p-2 pt-5"></i> Location</span><br />
                    <span><i class="fa-solid fa-phone p-2"></i> (+855) 1435265243</span><br />
                    <span><i class="fa-solid fa-envelope p-2"></i> Demo@gmail.com</span>
                    <div className='flex text-2xl items-center justify-center cursor-pointer'>

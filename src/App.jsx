@@ -11,8 +11,7 @@ import Review from './components/Review.jsx'
 import Login from './components/Login.jsx'
 import Footer from './components/Footer.jsx'
 function App() {
-  return (
-    <div>
+  return (<>
     <Navbar/>
     <Hero/>
     <Search/>
@@ -21,7 +20,7 @@ function App() {
     <Review/>
     <Login/>
     <Footer/>
-  </div>
+    </>
   )
 }
 

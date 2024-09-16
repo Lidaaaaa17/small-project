@@ -11,7 +11,7 @@ const Navbar = () => {
     <h1 className='text-4xl font-bold '>Rent Car</h1>
     <ul className=' hidden md:flex gap-6 text-lg'>
       <li className='hover:text-orange-600 duration-300'><a href="#">Home</a></li>
-      <li className='hover:text-orange-600 duration-300'><a href="#">About</a></li>
+      <li className='hover:text-orange-600 duration-300'><a href="#About">About</a></li>
       <li className='hover:text-orange-600 duration-300'><a href="#">Services</a></li>
       <li className='hover:text-orange-600 duration-300'><a href="#">Vehicles</a></li>
       <li className='hover:text-orange-600 duration-300'><a href="#">Client</a></li>
